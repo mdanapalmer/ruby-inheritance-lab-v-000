@@ -4,9 +4,9 @@ class Teacher < User
 
   end
 
-  def teach (knowledge)
+  def teach
 
   end
-    
+
 
 end
